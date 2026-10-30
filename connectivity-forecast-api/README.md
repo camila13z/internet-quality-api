@@ -18,9 +18,6 @@ horário e esta região?") e devolve uma resposta organizada com:
 - uma **recomendação** de uso (usar normalmente, reduzir o uso ou se preparar
   para ficar sem conexão).
 
-Os dados usados são **fictícios, de exemplo** — servem para demonstrar o
-funcionamento, não são medições reais da internet de ninguém.
-
 ## Como executar
 
 **Requisitos:** Java 17 e Maven 3.9 ou superior.
